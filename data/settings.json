@@ -2,10 +2,10 @@
   "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "loading1",
   "showGithub": false,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
+  "title": "卡普导航 - 精选实用导航网站",
+  "description": "卡普导航 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Side",
   "appTheme": "App",
@@ -44,7 +44,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 212,
+  "sideThemeHeight": 350,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": false,
   "shortcutThemeImages": [
@@ -55,7 +55,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
+  "showLanguage": false,
   "showRate": false,
   "mirrorList": []
 }
