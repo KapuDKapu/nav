@@ -9,7 +9,7 @@
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Side",
   "appTheme": "App",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2024-2024  All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
@@ -22,7 +22,7 @@
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 173,
+  "simThemeHeight": 219,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
@@ -44,7 +44,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 223,
+  "sideThemeHeight": 212,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": false,
   "shortcutThemeImages": [
