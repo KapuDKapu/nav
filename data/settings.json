@@ -1,5 +1,5 @@
 {
-  "favicon": "https://pic.imgdb.cn/item/65c201479f345e8d03abace7.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "loading1",
@@ -9,7 +9,7 @@
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Sim",
   "appTheme": "App",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2024-2024  All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
