@@ -23,29 +23,17 @@
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
   "simThemeHeight": 200,
-  "simThemeAutoplay": true,
+  "simThemeAutoplay": false,
   "sideThemeImages": [
     {
       "src": "https://pic.imgdb.cn/item/65b0b0a2871b83018abb632e.jpg",
       "url": "",
       "width": null,
       "height": null
-    },
-    {
-      "src": "https://pic.imgdb.cn/item/65c0a47d9f345e8d03f649f0.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://pic.imgdb.cn/item/65c0a48d9f345e8d03f6771b.jpg",
-      "url": "",
-      "width": null,
-      "height": null
     }
   ],
   "sideThemeHeight": 225,
-  "sideThemeAutoplay": true,
+  "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": false,
   "shortcutThemeImages": [
     {
